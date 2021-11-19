@@ -2,7 +2,7 @@
 
 [![Kunyang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyxie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left">[![Kunyang's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxie&hide=VHDL,Assembly,Makefile,Coq,SystemVerilog,CMake,Pascal,Objective-C&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left">[![Kunyang's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxie&hide=VHDL,Makefile,Coq,SystemVerilog,CMake,Pascal,Objective-C&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact Me:
 
