@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kunyang (Kyrie) Xie
+## Hi there 👋, I'm Kunyang (Kyrie) Xie
 
 - 🏫 I'm currently a master student in University of Waterloo
 
