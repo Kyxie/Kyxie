@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kunyang (Kyrie) Xie
+### Hi there 👋, I'm Kunyang (Kyrie) Xie
 
 - 🏫 I'm currently a master student in University of Waterloo
 
@@ -8,11 +8,11 @@
 
 - 📫 How to reach me:
 
-  🌐 Webo: [\_Kyxie](https://weibo.com/u/5687393723/home)
+  ✉ Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
 
   🌐 Linkedin: [Kunyang (Kyrie) Xie](https://www.linkedin.com/in/kunyang-kyrie-xie-557270194/)
 
-  ✉ Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
+  🌐 Webo: [\_Kyxie](https://weibo.com/u/5687393723/home)
 
 - 😃 Cycling🚴 , Basketball🏀, Table Tennis🏓
 
