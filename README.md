@@ -2,7 +2,7 @@
 
 - 🏫 I'm currently a master student in University of Waterloo
 
-- 📚 My major is software engineering
+- 📚 My major is Software Engineering
 
 - 🖥 Python / C++ / MATLAB / Verilog
 
