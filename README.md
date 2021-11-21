@@ -12,8 +12,6 @@
 
   🌐 Linkedin: [Kunyang (Kyrie) Xie](https://www.linkedin.com/in/kunyang-kyrie-xie-557270194/)
 
-  🌐 Webo: [\_Kyxie](https://weibo.com/u/5687393723/home)
-
 - 😃 Cycling🚴 , Basketball🏀, Table Tennis🏓
 
 - Stats
@@ -24,4 +22,4 @@
 
 [![Kunyang's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxie&hide=VHDL,Makefile,Coq,SystemVerilog,CMake,Pascal,Objective-C&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Kyxie&style=flat&color=brightgreen&label=VIEWS)
+![GitHub Views](https://komarev.com/ghpvc/?username=Kyxie&style=flat&color=brightgreen&label=VIEWS)
