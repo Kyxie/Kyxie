@@ -8,21 +8,21 @@
 
   ✉ Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
 
-  <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/linkedin.svg" /> LinkedIn: [Kunyang (Kyrie) Xie](https://www.linkedin.com/in/kunyang-kyrie-xie-557270194/)
+  <img align="left" alt="Markdown" width="20px" src="https://logo.letskhabar.com/img/?tool=linkedin" alt="linkedin"> /> LinkedIn: [Kunyang (Kyrie) Xie](https://www.linkedin.com/in/kunyang-kyrie-xie-557270194/)
 
-  <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/strava.svg" /> Strava: [Kunyang Xie](https://www.strava.com/athletes/62343657)
+  <img align="left" alt="Markdown" width="20px" src="https://simpleicons.org/icons/strava.svg" /> Strava: [Kunyang Xie](https://www.strava.com/athletes/62343657)
 
 - 🖥 Languages and tools:
 
-  <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/python.svg" /> Python
+  <img align="left" alt="Markdown" width="20px" src="https://logo.letskhabar.com/img/?tool=python" alt="python"> /> Python
 
-  <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/cplusplus.svg" /><img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/c.svg" /> C++ / C
+  <img align="left" alt="C++" width="20px" src="https://logo.letskhabar.com/img/?tool=c-plus" alt="c-plus"> /> C++
 
-  <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /> MATLAB
+  <img align="left" alt="MATLAB" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /> MATLAB
 
-  <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/> Visual Studio Code
+  <img align="left" alt="Visual Studio" width="20px" src="https://logo.letskhabar.com/img/?tool=vs-code" alt="vs-code">/> Visual Studio Code
 
-  <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/ubuntu.svg" /> Ubuntu
+  <img align="left" alt="Markdown" width="20px" src="https://logo.letskhabar.com/img/?tool=ubuntu" alt="ubuntu"> /> Ubuntu
 
 - 😃 Cycling🚴 , Basketball🏀, Table Tennis🏓
 
