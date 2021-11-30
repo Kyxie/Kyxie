@@ -20,7 +20,7 @@
 
   <img align="left" alt="MATLAB" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"> MATLAB
 
-  <img align="left" alt="Visual Studio" width="20px" src="https://logo.letskhabar.com/img/?tool=vs-code"> Visual Studio Code
+  <img align="left" alt="Visual Studio" width="20px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> Visual Studio Code
 
   <img align="left" alt="Ubuntu" width="20px" src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/> Ubuntu
 
