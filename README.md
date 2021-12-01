@@ -30,7 +30,7 @@
 
 ![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true&hide=contribs&theme=onedark)
 
-[![Kunyang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyxie&theme=onedark&hide=CMake,Git Config,other,MATLAB)](https://github.com/anuraghazra/github-readme-stats)
+[![Kunyang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyxie&theme=onedark&hide=CMake,Git Config,MATLAB,other)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Kunyang's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxie&hide=VHDL,Makefile,Coq,SystemVerilog,CMake,Pascal,Objective-C&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
