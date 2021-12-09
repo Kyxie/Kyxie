@@ -14,6 +14,8 @@
 
 - 🖥 Languages and tools:
 
+  <img align="left" alt="Python" width="20px" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> Java
+
   <img align="left" alt="Python" width="20px" src="https://img.icons8.com/color/50/000000/python--v1.png"/> Python
 
   <img align="left" alt="C++" width="20px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> C++
