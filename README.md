@@ -30,7 +30,7 @@
 
 - 📊 Stats:
 
-![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true&hide=contribs&theme=onedark)
+![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true&theme=onedark)
 
 [![Kunyang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyxie&theme=onedark&hide=CMake,other,git%20config,XML,JSON)](https://github.com/anuraghazra/github-readme-stats)
 
