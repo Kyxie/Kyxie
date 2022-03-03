@@ -10,24 +10,6 @@
 
   <img align="left" alt="LinkedIn" width="20px" src="https://img.icons8.com/color/50/000000/linkedin.png"/> LinkedIn: [Kunyang (Kyrie) Xie](https://www.linkedin.com/in/kunyang-kyrie-xie-557270194/)
 
-  <img align="left" alt="Strava" width="20px" src="https://simpleicons.org/icons/strava.svg"/> Strava: [Kunyang Xie](https://www.strava.com/athletes/62343657)
-
-- 🖥 Languages and tools:
-
-  <img align="left" alt="Python" width="20px" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> Java
-
-  <img align="left" alt="Python" width="20px" src="https://img.icons8.com/color/50/000000/python--v1.png"/> Python
-
-  <img align="left" alt="C++" width="20px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> C++
-
-  <img align="left" alt="MATLAB" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"> MATLAB
-
-  <img align="left" alt="Visual Studio" width="20px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> Visual Studio Code
-
-  <img align="left" alt="Ubuntu" width="20px" src="https://img.icons8.com/color/50/000000/ubuntu--v1.png"/> Ubuntu
-
-- 😃 Cycling🚴 , Basketball🏀, Table Tennis🏓
-
 - 📊 Stats:
 
 ![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true&theme=onedark)
