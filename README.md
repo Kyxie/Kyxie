@@ -2,8 +2,6 @@
 
 - 🏫 I'm currently a master student in University of Waterloo
 
-- 📚 My major is Software Engineering
-
 - 📫 How to reach me:
 
    <img align="left" alt="Email" width="20px" src="https://img.icons8.com/color/50/000000/email-sign.png"/> Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
