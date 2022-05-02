@@ -11,8 +11,9 @@
   <img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/color/50/000000/linkedin.png"/> LinkedIn: [Kunyang (Kyrie) Xie](https://www.linkedin.com/in/kunyang-kyrie-xie-557270194/)
 
 - 📊 Stats:
-
+<center>
 ![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true)
+</center>
 
 <!-- [![Kunyang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyxie&hide=CMake,other,git%20config,XML,JSON,Markdown,Bash,MATLAB,TOML,YAML)](https://github.com/anuraghazra/github-readme-stats) -->
 
