@@ -4,9 +4,9 @@
 
 - 📫 How to reach me:
 
-  🌐 Website: [Kunyang's Blog](https://kyxie.github.io/en/)
+  🌐   Website: [Kunyang's Blog](https://kyxie.github.io/en/)
 
-  📩 Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
+  📩   Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
 
   <img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/color/50/000000/linkedin.png"/> LinkedIn: [Kunyang (Kyrie) Xie](https://www.linkedin.com/in/kunyang-kyrie-xie-557270194/)
 
