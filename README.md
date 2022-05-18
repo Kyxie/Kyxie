@@ -8,7 +8,7 @@
 
   📩 Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
 
-- 📊 Stats:
+<!-- - 📊 Stats: -->
 
 <!--   ![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true) -->
 
