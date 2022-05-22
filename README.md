@@ -8,9 +8,9 @@
 
   📩 Email: k47xie@uwaterloo.ca, kyriexie@outlook.com
 
-<!-- - 📊 Stats: -->
+- 📊 Stats:
 
-<!--   ![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true) -->
+  ![Kunyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxie&count_private=true&show_icons=true)
 
 <!-- [![Kunyang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kyxie&hide=CMake,other,git%20config,XML,JSON,Markdown,Bash,MATLAB,TOML,YAML)](https://github.com/anuraghazra/github-readme-stats) -->
 
