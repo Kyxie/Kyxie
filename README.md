@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kunyang (Kyrie) Xie
+### Hi there 👋, I'm Kunyang Xie
 
 - 📫 How to reach me:
 
